@@ -1,0 +1,11 @@
+.patientInfo {
+    height: 90vh;
+    display: block;
+}
+body {
+    background-repeat: no-repeat;
+    background: linear-gradient(to bottom, rgb(115, 250, 176) 10%, rgb(255, 255, 255) 80%) top;
+}
+.card {
+    margin-bottom: 50px;
+  }
